@@ -25,7 +25,7 @@ proceedings. See for instance the web-pages of the authors
 - [[https://www.mn.uio.no/ifi/english/people/aca/natasa/][Anastasia Gkolfi]]
 
 
-Technial report 
+Technial report:
 
 * System requirements and how to use the model
 
