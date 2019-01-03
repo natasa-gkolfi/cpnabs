@@ -4,13 +4,29 @@
 #+OPTIONS: tags:nil tasks:t tex:t timestamp:t title:t toc:t todo:t |:t
 #+TITLE: Colored Petri nets model for ABS
 #+DATE: <2019-01-03 Thu>
-#+AUTHOR: Martin Steffen
-#+EMAIL: msteffen@ifi.uio.no
+#+AUTHOR: Anastasia Gkolfi et. al.
 #+LANGUAGE: en
 #+SELECT_TAGS: export handout slides
 #+EXCLUDE_TAGS: private noexport
 #+CREATOR: Emacs 24.3.1 (Org mode 9.1.14)
 
 
-Repository for the colored Petri nets model for the semantics of the active
-object language ABS.
+* In a nutshell
+
+This repos contains the the colored Petri nets model for the semantics of
+the active object language ABS. 
+
+
+* Additional material
+
+The background of the model has been published in conference
+proceedings. See for instance the web-pages of the authors
+
+- [[https://www.mn.uio.no/ifi/english/people/aca/natasa/][Anastasia Gkolfi]]
+
+
+Technial report 
+
+* System requirements and how to use the model
+
+
