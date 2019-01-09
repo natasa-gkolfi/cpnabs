@@ -55,14 +55,16 @@ paper (hence, the numbering of the figures does not start with number 1).
 |     08 | [[./images/initprocesscreator.pdf][initprocesscreator.pdf]] |
 |     09 | [[./images/newobj.pdf][newobj.pdf]]             |
 |     10 | [[./images/creation.pdf][creation.pdf]]           |
-|     11 |                        |
+|     11 | [[./images/communication.pdf][communication.pdf]]      |
+|     12 |                        |
+|--------+------------------------|
+|        |                        |
 
 
-
-Technial report:
 
 
 
 * System requirements and how to use the model
 
+...
 
