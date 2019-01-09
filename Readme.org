@@ -47,26 +47,26 @@ screenshots, not other schematic figures, tables, or illustrations in the
 paper (hence, the numbering of the figures does not start with number 1).
 
 
-|--------+------------------------|
-| Figure | file                   |
-|--------+------------------------|
-|     06 | [[./images/toplevel.pdf][toplevel.pdf]]           |
-|     07 | [[./images/classidcreation.pdf][classidcreation.pdf]]    |
-|     08 | [[./images/initprocesscreator.pdf][initprocesscreator.pdf]] |
-|     09 | [[./images/newobj.pdf][newobj.pdf]]             |
-|     10 | [[./images/creation.pdf][creation.pdf]]           |
-|     11 | [[./images/communication.pdf][communication.pdf]]      |
-|     12 | [[./images/return.pdf][return.pdf]]             |
-|     13 | [[./images/suspendactivate.pdf][suspendactivate.pdf]]    |
-|     14 | [[./images/synchselfcall.pdf][synchselfcall.pdf]]      |
-|     15 | [[./images/caller.pdf][caller.pdf]]             |
-|     16 | [[./images/callee.pdf][calee.pdf]]              |
-|     12 | [[./images/.pdf][.pdf] |
-|     12 | [[./images/.pdf][.pdf] |
-|     12 | [[./images/.pdf][.pdf] |
-|     12 | [[./images/.pdf][.pdf] |
-|--------+------------------------|
-|        |                        |
+|--------+------------------------+-------------------|
+| Figure | file                   |                   |
+|--------+------------------------+-------------------|
+|     06 | [[./images/toplevel.pdf][toplevel.pdf]]           |                   |
+|     07 | [[./images/classidcreation.pdf][classidcreation.pdf]]    |                   |
+|     08 | [[./images/initprocesscreator.pdf][initprocesscreator.pdf]] |                   |
+|     09 | [[./images/newobj.pdf][newobj.pdf]]             |                   |
+|     10 | [[./images/creation.pdf][creation.pdf]]           |                   |
+|     11 | [[./images/communication.pdf][communication.pdf]]      |                   |
+|     12 | [[./images/return.pdf][return.pdf]]             |                   |
+|     13 | [[./images/suspendactivate.pdf][suspendactivate.pdf]]    |                   |
+|     14 | [[./images/synchselfcall.pdf][synchselfcall.pdf]]      |                   |
+|     15 | [[./images/caller.pdf][caller.pdf]]             |                   |
+|     16 | [[./images/callee.pdf][calee.pdf]]              |                   |
+|     17 | [[./images/readfut.pdf][readfut.pdf]]            | Future resolution |
+|     12 | [[./images/.pdf][.pdf] |                   |
+|     12 | [[./images/.pdf][.pdf] |                   |
+|     12 | [[./images/.pdf][.pdf] |                   |
+|--------+------------------------+-------------------|
+|        |                        |                   |
 
 
 
