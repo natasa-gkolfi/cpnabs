@@ -36,11 +36,12 @@ screenshots, not other schematic figures, tables, or illustrations in the
 paper (hence, the numbering of the figures does not start with number 1).
 
 
-|--------+--------------|
-| Figure | file         |
-|--------+--------------|
-|     06 | [[./images/toplevel.pdf][toplevel.pdf]] |
-|        |              |
+|--------+---------------------|
+| Figure | file                |
+|--------+---------------------|
+|     06 | [[./images/toplevel.pdf][toplevel.pdf]]        |
+|     07 | [[./images/classidcreation.pdf][classidcreation.pdf]] |
+|        |                     |
 
 
 
