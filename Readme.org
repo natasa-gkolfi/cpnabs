@@ -28,7 +28,14 @@ proceedings. See for instance the web-pages of the authors
 
 ** Images 
 
-The paper contains a fiew 
+The paper contains a number of images which are screenshots taken from the
+cpn-tool. They are reproduced here for better viewing in the directory
+[[./images]].
+
+
+|   |   |
+|   |   |
+
 
 
 Technial report:
