@@ -43,6 +43,7 @@ paper (hence, the numbering of the figures does not start with number 1).
 |     07 | [[./images/classidcreation.pdf][classidcreation.pdf]]    |
 |     08 | [[./images/initprocesscreator.pdf][initprocesscreator.pdf]] |
 |     09 | [[./images/newobj.pdf][newobj.pdf]]             |
+|     10 | [[./images/creation.pdf][creation.pdf]]           |
 |        |                        |
 
 
