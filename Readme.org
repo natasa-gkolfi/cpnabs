@@ -21,6 +21,8 @@ for a submitted work. The tool-readable file is downloadable from:
      [[imperative_layerRefactor.cpn]]
 #+end_center
 
+ 
+
 
 * Additional material
 
@@ -42,7 +44,10 @@ link]]), or also the web-pages of the authors for related work.
 ** Images 
 
 The paper contains a number of images which are screenshots taken from the
-cpn-tool. They are reproduced here for better viewing in the directory
+cpn-tool.  
+
+
+They are reproduced here for better viewing in the directory
 [[./images]]. The numbers listed here correspond to the numbers as they appear
 in the long version of the paper. The repository here contains /only/ the
 screenshots, not other schematic figures, tables, or illustrations in the
@@ -69,9 +74,19 @@ paper (hence, the numbering of the figures does not start with number 1).
 
 
 
+** CPN tools
+
+
+
 
 
 * System requirements and how to use the model
+
+The model is produced with [[http://cpntools.org/][CPN tools]]. The tool set it freely available
+under the given link. Please follow the information under The model is
+produced with [[http://cpntools.org/][the tools webpage]] for system requirements, installation
+instructions, and licensing information.
+
 
 ...
 
