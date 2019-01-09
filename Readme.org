@@ -56,7 +56,15 @@ paper (hence, the numbering of the figures does not start with number 1).
 |     09 | [[./images/newobj.pdf][newobj.pdf]]             |
 |     10 | [[./images/creation.pdf][creation.pdf]]           |
 |     11 | [[./images/communication.pdf][communication.pdf]]      |
-|     12 |                        |
+|     12 | [[./images/return.pdf][return.pdf]]             |
+|     13 | [[./images/suspendactivate.pdf][suspendactivate.pdf]]    |
+|     12 | [[./images/.pdf][.pdf] |
+|     12 | [[./images/.pdf][.pdf] |
+|     12 | [[./images/.pdf][.pdf] |
+|     12 | [[./images/.pdf][.pdf] |
+|     12 | [[./images/.pdf][.pdf] |
+|     12 | [[./images/.pdf][.pdf] |
+|     12 | [[./images/.pdf][.pdf] |
 |--------+------------------------|
 |        |                        |
 
