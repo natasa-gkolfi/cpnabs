@@ -59,7 +59,7 @@ paper (hence, the numbering of the figures does not start with number 1).
 |     12 | [[./images/return.pdf][return.pdf]]             |
 |     13 | [[./images/suspendactivate.pdf][suspendactivate.pdf]]    |
 |     14 | [[./images/synchselfcall.pdf][synchselfcall.pdf]]      |
-|     12 | [[./images/.pdf][.pdf] |
+|     12 | [[./images/caller.pdf][caller.pdf]]             |
 |     12 | [[./images/.pdf][.pdf] |
 |     12 | [[./images/.pdf][.pdf] |
 |     12 | [[./images/.pdf][.pdf] |
