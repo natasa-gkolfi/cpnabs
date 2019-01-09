@@ -81,10 +81,9 @@ paper (hence, the numbering of the figures does not start with number 1).
 * System requirements and how to use the model
 
 The model is produced with [[http://cpntools.org/][ *CPN tools* ]]. The tool set it freely available
-under the given link. Please follow the information under The model is
-produced with [[http://cpntools.org/][the tools webpage]] for system requirements, installation
-instructions, and licensing information.
+under the given link. Please follow the information under [[http://cpntools.org/][the tool's
+webpage]] for installation instructions, system requirements, documentation,
+and licensing information.
 
 
-...
 
