@@ -21,8 +21,8 @@ for a submitted work
 * Additional material
 
 The background of the model has been earlier, in a shorter and preliminary
-conference version published as ``/Translating Active Objects into Colored
-Petri Nets for Communication Analysis/''. In: Dastani M., Sirjani M. (eds)
+conference version published as /Translating Active Objects into Colored
+Petri Nets for Communication Analysis/. In: Dastani M., Sirjani M. (eds)
 Fundamentals of Software Engineering. FSEN 2017. Lecture Notes in Computer
 Science, vol 10522. Springer, see also the the [[./misc/fsen.bib][bib-entry]] and the [[https://doi.org/10.1007/978-3-319-68972-2_6][Springer
 DOI link]])
