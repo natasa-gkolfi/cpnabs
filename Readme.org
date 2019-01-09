@@ -13,9 +13,13 @@
 
 * In a nutshell
 
-This repos contains the the colored Petri nets (``cpn'') model for the
+This repos contains the *colored Petri nets  model* (``cpn'' model) for the
 semantics of the active object language ABS. It is accomapnying material
-for a submitted work
+for a submitted work. The tool-readable file is 
+
+#+begin_center
+[[imperative_layerRefactor.cpn]]
+#+end_center
 
 
 * Additional material
