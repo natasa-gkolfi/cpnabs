@@ -30,7 +30,7 @@ DOI link]])
 See further also the web-pages of the authors for related work.
 
 - [[https://www.mn.uio.no/ifi/english/people/aca/natasa/][Anastasia Gkolfi]]
-- [[https://www.mn.uio.no/ifi/english/people/aca/crystald/][Chrystal Chang Din]]
+- [[https://www.mn.uio.no/ifi/english/people/aca/crystald/][Crystal Chang Din]]
 - [[http:heim.ifi.uio.no/~einarj/][Einar Broch Johnsen]]
 - [[http://home.hib.no/ansatte/lmkr][Lars Michael Kristensen]]
 - [[http://heim.ifi.uio.no/~msteffen/][Martin Steffen]]
