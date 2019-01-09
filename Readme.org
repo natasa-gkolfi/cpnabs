@@ -30,11 +30,17 @@ proceedings. See for instance the web-pages of the authors
 
 The paper contains a number of images which are screenshots taken from the
 cpn-tool. They are reproduced here for better viewing in the directory
-[[./images]].
+[[./images]]. The numbers listed here correspond to the numbers as they appear
+in the long version of the paper. The repository here contains /only/ the
+screenshots, not other schematic figures in the paper (hence, the numbering
+of the figures does not start with number 1).
 
 
-|   |   |
-|   |   |
+|----+------|
+| nr | file |
+|----+------|
+|    |      |
+|    |      |
 
 
 
