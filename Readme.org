@@ -13,8 +13,8 @@
 
 * In a nutshell
 
-This repos contains the the colored Petri nets model for the semantics of
-the active object language ABS. 
+This repos contains the the colored Petri nets (``cpn'') model for the
+semantics of the active object language ABS. 
 
 
 * Additional material
@@ -23,6 +23,8 @@ The background of the model has been published in conference
 proceedings. See for instance the web-pages of the authors
 
 - [[https://www.mn.uio.no/ifi/english/people/aca/natasa/][Anastasia Gkolfi]]
+- [[https://www.mn.uio.no/ifi/english/people/aca/crystald/][Chrystal Chang Din]]
+- [[http:heim.ifi.uio.no/~einarj/][Einar Broch Johnsen]]
 
 
 
@@ -44,7 +46,7 @@ paper (hence, the numbering of the figures does not start with number 1).
 |     08 | [[./images/initprocesscreator.pdf][initprocesscreator.pdf]] |
 |     09 | [[./images/newobj.pdf][newobj.pdf]]             |
 |     10 | [[./images/creation.pdf][creation.pdf]]           |
-|        |                        |
+|     11 |                        |
 
 
 
