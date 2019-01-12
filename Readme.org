@@ -71,6 +71,7 @@ paper (hence, the numbering of the figures does not start with number 1).
 |     17 | [[./images/readfut.pdf][readfut.pdf]]            | future resolution          |
 |--------+------------------------+----------------------------|
 |        | [[./images/selectprocess.pdf][selectprocess.pdf]]      | process selection          |
+|        | [[./images/selectobjetc.pdf][selectobject.pdf]]       | object selection           |
 |--------+------------------------+----------------------------|
 
 
