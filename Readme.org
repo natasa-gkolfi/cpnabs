@@ -70,6 +70,8 @@ paper (hence, the numbering of the figures does not start with number 1).
 |     16 | [[./images/callee.pdf][calee.pdf]]              | callee                     |
 |     17 | [[./images/readfut.pdf][readfut.pdf]]            | future resolution          |
 |--------+------------------------+----------------------------|
+|        | [[./images/selectprocess.pdf][selectprocess.pdf]]      | process selection          |
+|--------+------------------------+----------------------------|
 
 
 
