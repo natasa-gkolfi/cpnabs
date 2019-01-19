@@ -1,4 +1,16 @@
-** Transitions
+* Introduction
+
+The (simple) file contains in tabular form an overview over the places and
+transitions of the CPNs used in the model of the paper. The submission
+contains a number of screenshots taken from the tool as figures. They are
+also reproduced here (under [[./images]]) for better viewing. Each figure
+contains a functionally related subpart of the global net (which is too big
+to be reproduced in its entirety).
+
+
+* Transitions and places
+
+
 |-----+-----------------------+------+------+---------------+---+---+---+----+----+----+----+----+----+----+----|
 | nr  | long name             | kind |      | 6             | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
 |-----+-----------------------+------+------+---------------+---+---+---+----+----+----+----+----+----+----+----|
