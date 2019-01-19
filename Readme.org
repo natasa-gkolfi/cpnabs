@@ -67,13 +67,10 @@ paper (hence, the numbering of the figures does not start with number 1).
 |     13 | [[./images/selectprocess.pdf][selectprocess.pdf]]      | process selection          |         |
 |     14 | [[./images/selectobject.pdf][selectobject.pdf]]       | object selection           |         |
 |     15 | [[./images/suspendactivate.pdf][suspendactivate.pdf]]    | suspend and activate       |         |
-|--------+------------------------+----------------------------+---------|
-|     14 | [[./images/synchselfcall.pdf][synchselfcall.pdf]]      | synchronous self call      |         |
-|     15 | [[./images/caller.pdf][caller.pdf]]             | caller                     |         |
-|     16 | [[./images/callee.pdf][calee.pdf]]              | callee                     |         |
-|     17 | [[./images/readfut.pdf][readfut.pdf]]            | future resolution          |         |
-|--------+------------------------+----------------------------+---------|
-|        | [[./images/unused/newobject.pdf][newobject.pdf]]          | object creation (ii)       | A.16    |
+|     16 | [[./images/caller.pdf][caller.pdf]]             | method caller              |         |
+|     17 | [[./images/callee.pdf][callee.pdf]]             | callee                     |         |
+|     18 | [[./images/readfut.pdf][readfut.pdf]]            | future resolution          |         |
+|     19 | [[./images/synchselfcall.pdf][synchselfcall.pdf]]      | synchronous self call      |         |
 |--------+------------------------+----------------------------+---------|
 
 
