@@ -65,6 +65,7 @@ paper (hence, the numbering of the figures does not start with number 1).
 |     11 | [[./images/communication.pdf][communication.pdf]]      | communication mechanisms   |         |
 |     12 | [[./images/return.pdf][return.pdf]]             | return from a method       |         |
 |     13 | [[./images/selectprocess.pdf][selectprocess.pdf]]      | process selection          |         |
+|        | [[./images/selectobject.pdf][selectobject.pdf]]       | object selection           |         |
 |--------+------------------------+----------------------------+---------|
 |     13 | [[./images/suspendactivate.pdf][suspendactivate.pdf]]    | suspend and activate       |         |
 |     14 | [[./images/synchselfcall.pdf][synchselfcall.pdf]]      | synchronous self call      |         |
@@ -73,7 +74,6 @@ paper (hence, the numbering of the figures does not start with number 1).
 |     17 | [[./images/readfut.pdf][readfut.pdf]]            | future resolution          |         |
 |--------+------------------------+----------------------------+---------|
 |        | [[./images/unused/newobject.pdf][newobject.pdf]]          | object creation (ii)       | A.16    |
-|        | [[./images/selectobjetc.pdf][selectobject.pdf]]       | object selection           | A.19    |
 |--------+------------------------+----------------------------+---------|
 
 
