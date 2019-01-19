@@ -4,8 +4,18 @@ The (simple) file contains in tabular form an overview over the places and
 transitions of the CPNs used in the model of the paper. The submission
 contains a number of screenshots taken from the tool as figures. They are
 also reproduced here (under [[./images]]) for better viewing. Each figure
-contains a functionally related subpart of the global net (which is too big
-to be reproduced in its entirety).
+contains a functionally related subpart of the global net, for instance,
+covering differnent aspects of the semantics. The global net itself is too
+big to be reproduced in its entirety in the paper.  Each submodule
+resp. figure contains a number of places and transitions. Those places and
+transitions are numbered (besides carrying a more telling name). Sometimes,
+places and transitions are ``shared'' between different submodules
+resp. connecting different submodules. Consequently, those places or
+transitions are mentioned in /more/ than one figure. 
+
+
+The shown table gives an overview, where each place resp. transition can be
+found as contributing to that submodule's functioning.
 
 
 * Transitions and places
