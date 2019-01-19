@@ -66,8 +66,8 @@ paper (hence, the numbering of the figures does not start with number 1).
 |     12 | [[./images/return.pdf][return.pdf]]             | return from a method       |         |
 |     13 | [[./images/selectprocess.pdf][selectprocess.pdf]]      | process selection          |         |
 |     14 | [[./images/selectobject.pdf][selectobject.pdf]]       | object selection           |         |
+|     15 | [[./images/suspendactivate.pdf][suspendactivate.pdf]]    | suspend and activate       |         |
 |--------+------------------------+----------------------------+---------|
-|     13 | [[./images/suspendactivate.pdf][suspendactivate.pdf]]    | suspend and activate       |         |
 |     14 | [[./images/synchselfcall.pdf][synchselfcall.pdf]]      | synchronous self call      |         |
 |     15 | [[./images/caller.pdf][caller.pdf]]             | caller                     |         |
 |     16 | [[./images/callee.pdf][calee.pdf]]              | callee                     |         |
